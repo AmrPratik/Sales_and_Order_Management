@@ -57,4 +57,12 @@ The database consists of the following tables:
 - Indexes for performance optimization  
 
 ---
+## 📂 Files in this Repository
+- `databas_schema.sql` - database and table creation
+- `insert_data.sql` - insertion of sample data
+- `queries.sql` - business level queries
+- `viewa.sql` - views for reporting
+- `stored_procedures.sql` - stored procedures
+- `indexes.sql` - performance optimization
+  
 
